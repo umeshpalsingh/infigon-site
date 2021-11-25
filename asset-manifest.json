@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/infigon-site/static/css/main.38440436.chunk.css",
+    "main.js": "/infigon-site/static/js/main.2ba380e6.chunk.js",
+    "main.js.map": "/infigon-site/static/js/main.2ba380e6.chunk.js.map",
+    "runtime-main.js": "/infigon-site/static/js/runtime-main.f6d86dcd.js",
+    "runtime-main.js.map": "/infigon-site/static/js/runtime-main.f6d86dcd.js.map",
+    "static/js/2.1163d64c.chunk.js": "/infigon-site/static/js/2.1163d64c.chunk.js",
+    "static/js/2.1163d64c.chunk.js.map": "/infigon-site/static/js/2.1163d64c.chunk.js.map",
+    "static/js/3.753c26b9.chunk.js": "/infigon-site/static/js/3.753c26b9.chunk.js",
+    "static/js/3.753c26b9.chunk.js.map": "/infigon-site/static/js/3.753c26b9.chunk.js.map",
+    "index.html": "/infigon-site/index.html",
+    "static/css/main.38440436.chunk.css.map": "/infigon-site/static/css/main.38440436.chunk.css.map",
+    "static/js/2.1163d64c.chunk.js.LICENSE.txt": "/infigon-site/static/js/2.1163d64c.chunk.js.LICENSE.txt",
+    "static/media/undraw_modern_design_v-3-wv.5774472d.svg": "/infigon-site/static/media/undraw_modern_design_v-3-wv.5774472d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d86dcd.js",
+    "static/js/2.1163d64c.chunk.js",
+    "static/css/main.38440436.chunk.css",
+    "static/js/main.2ba380e6.chunk.js"
+  ]
+}
